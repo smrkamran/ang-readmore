@@ -17,7 +17,17 @@
     "lib": [
       "es2018",
       "dom"
-    ]
+    ],
+    "paths": {
+      "ang-readmore": [
+        "dist/ang-readmore",
+        "dist/ang-readmore"
+      ],
+      "ang-readmore/*": [
+        "dist/ang-readmore/*",
+        "dist/ang-readmore/*"
+      ]
+    }
   },
   "angularCompilerOptions": {
     "fullTemplateTypeCheck": true,
