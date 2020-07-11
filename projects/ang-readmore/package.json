@@ -4,5 +4,11 @@
   "peerDependencies": {
     "@angular/common": "^8.2.14",
     "@angular/core": "^8.2.14"
-  }
+  },
+  "keywords": [
+    "angular",
+    "readmore",
+    "readless",
+    "truncate string"
+  ]
 }
