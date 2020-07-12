@@ -1,5 +1,8 @@
 # AngReadmore
 This is a simple angular component to add "read more"/"read less" links to your long sentenses/paragraphs.
+
+>Checkout the [DEMO](https://ang-readmore-example.stackblitz.io)
+
 This library was generated with [Angular CLI](https://github.com/angular/angular-cli) version 8.2.14.
 
 ## 1-Install
